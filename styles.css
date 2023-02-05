@@ -1,0 +1,32 @@
+* {
+    background-color: aliceblue;
+    font-family: Garamond, "Times New Roman", sans-serif;
+}
+
+h1 {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+#instructions {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.recipe-items {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#home-link {
+    align-self: center;
+    font-weight: bold;
+    font-size: 18px;
+}
